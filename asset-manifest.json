@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/20_01_React_Work/static/css/main.95108b33.css",
+    "main.js": "/20_01_React_Work/static/js/main.f5dfe51b.js",
+    "index.html": "/20_01_React_Work/index.html",
+    "main.95108b33.css.map": "/20_01_React_Work/static/css/main.95108b33.css.map",
+    "main.f5dfe51b.js.map": "/20_01_React_Work/static/js/main.f5dfe51b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95108b33.css",
+    "static/js/main.f5dfe51b.js"
+  ]
+}
